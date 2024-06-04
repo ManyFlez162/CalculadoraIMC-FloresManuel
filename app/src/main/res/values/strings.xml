@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asignacion4_CalculadoraIMC_FloresManuel</string>
+    <string name="IMC">CALCULAR</string>
+    <string name="escribePeso">Kilos (xx.x)</string>
+    <string name="escribeEstatura">Estatura (x.xx)</string>
+    <string name="rango">Rango</string>
+    <string name="indice">IMC</string>
+</resources>
